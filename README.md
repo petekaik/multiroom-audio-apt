@@ -18,10 +18,10 @@ Suites: `stable` (what devices should follow) and `canary` (newest builds, test 
 
 ```bash
 sudo install -d /usr/share/keyrings
-curl -fsSL https://petekaik.github.io/multiroom-audio-apt/multiroom-archive.gpg | sudo tee /usr/share/keyrings/multiroom-archive.gpg >/dev/null
+curl -fsSL https://gitpages.morgeweb.com/multiroom-audio-apt/multiroom-archive.gpg | sudo tee /usr/share/keyrings/multiroom-archive.gpg >/dev/null
 sudo tee /etc/apt/sources.list.d/multiroom.sources >/dev/null <<'EOF'
 Types: deb
-URIs: https://petekaik.github.io/multiroom-audio-apt
+URIs: https://gitpages.morgeweb.com/multiroom-audio-apt
 Suites: stable
 Components: main
 Architectures: armhf
