@@ -27,7 +27,7 @@ Components: main
 Architectures: armhf
 Signed-By: /usr/share/keyrings/multiroom-archive.gpg
 EOF
-sudo apt update && sudo apt install multiroom-shairport-sync multiroom-nqptp multiroom-librespot
+sudo apt update && sudo apt install multiroom-endpoint   # also pulls in the three programs below
 ```
 
 Signing key fingerprint: `FC4E BB55 680B 9538 89FC  45FD D7AB 43C0 6442 791B`.
