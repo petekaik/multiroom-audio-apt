@@ -25,7 +25,6 @@ Types: deb
 URIs: https://gitpages.morgeweb.com/multiroom-audio-apt
 Suites: stable
 Components: main
-Architectures: armhf
 Signed-By: /usr/share/keyrings/multiroom-archive.gpg
 EOF
 sudo apt update && sudo apt install multiroom-endpoint   # also pulls in the three programs below
