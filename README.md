@@ -4,6 +4,7 @@ Signed apt repository with ARMv6 (Raspberry Pi Zero / 1) builds, for Raspberry P
 
 | Package | Upstream | Licence |
 |---|---|---|
+| `multiroom-endpoint` (scripts, boot chime, stream switching, update agent) | https://github.com/petekaik/multiroom-audio | MIT |
 | `multiroom-shairport-sync` (AirPlay 2) | https://github.com/mikebrady/shairport-sync | MIT-style |
 | `multiroom-nqptp` (AirPlay 2 timing) | https://github.com/mikebrady/nqptp | GPL-2.0 |
 | `multiroom-librespot` (Spotify Connect) | https://github.com/librespot-org/librespot | MIT |
