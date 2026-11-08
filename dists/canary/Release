@@ -1,19 +1,27 @@
-Architectures: armhf
+Architectures: armhf all
 Codename: canary
 Components: main
-Date: Sun, 08 Nov 2026 19:36:14 +0000
+Date: Sun, 08 Nov 2026 19:45:11 +0000
 Label: multiroom-audio
 Origin: multiroom-audio
 Suite: canary
 MD5Sum:
- 64b220562c72c6adfadd1e2fe1cd58ce             2905 main/binary-armhf/Packages
- b2af7f731e1b079a074b23f84c2af8d1             1267 main/binary-armhf/Packages.gz
+ 8ae50950253ea0cfeb491c1e0ce009c7             1242 main/binary-all/Packages
+ bd1a9365cfc7ec511602fd2d6217ad47              741 main/binary-all/Packages.gz
+ 8b9060e49d2e122bdfd32577d46111f3             2905 main/binary-armhf/Packages
+ 5efad9e2b4515a97aae06a31b09d8f81             1264 main/binary-armhf/Packages.gz
 SHA1:
- 0c5c36c6ae4ade2a49ccdfdf3dc34b8317c42de8             2905 main/binary-armhf/Packages
- e18c588ad8a3bcebf6ef1f7a26c03cb537455b57             1267 main/binary-armhf/Packages.gz
+ 0c97f5e9299484a7b2dcb47a04304f428ad84f07             1242 main/binary-all/Packages
+ 9fd8a5e3501d5a8731e2d8cad20249c91466a022              741 main/binary-all/Packages.gz
+ 45a26e5446ebfd8bf61cabd9cf34f7b56f91d474             2905 main/binary-armhf/Packages
+ a2fa8a0bfc133dccaf907a9c64878673f08dc33f             1264 main/binary-armhf/Packages.gz
 SHA256:
- 413a0b2c1b1e7dd76c735aee22b384c8851c4da76401619ff1efeda196e9a137             2905 main/binary-armhf/Packages
- 25c2ba162b2cc39b0efca7811f2ae9996fcb3a5727af8fc16053df39b4ada52b             1267 main/binary-armhf/Packages.gz
+ a9ea7b2e9873b3b2e0e003564e448eaf5ebdbbc971411e2a229c52fd0c4c584c             1242 main/binary-all/Packages
+ a01f4954af714a940fab7961c1feda34b88d86e44b9ad563ad27767baa3a9c86              741 main/binary-all/Packages.gz
+ 770137f720566c54c312ca6d2533c337b4bbf94e597e30845f882f0d685a2871             2905 main/binary-armhf/Packages
+ 927be17220a704b190b68fc4a3468b8c30ca3027e35730c882a5552dac43a861             1264 main/binary-armhf/Packages.gz
 SHA512:
- 7bd2a850afdfa42139605a84ee313a819ea16d7f6c81c43cc38c001538321e2566893ae913344ef66230abee97bc36d4e1db2b935be0cd5ae3d3b5e670b49bc5             2905 main/binary-armhf/Packages
- b86f87490c658d711f82ddf60ecc9427b5b9f7e24f23e11b5a11328fa95f93ebc405a3cc4f54aa9a06889a9daefa237743042110e9e14d170e4ffd174c9042a5             1267 main/binary-armhf/Packages.gz
+ ed8ce8cc9e70ce2d11401545eadc4da33306e6a075b046f229bd4a73eb8e4fe87cdec3cf1d48649e034b5cd4965792a48398cfd9298a76a03a7e3007fd6192bd             1242 main/binary-all/Packages
+ e7a54df99911fd7b5cd26febd744fa50a4b57246c40a9ee2ff8e463616bba704702042afe91539e5e6802a1eb7bdb7a901e63f1e6620d44d031a63b0f0163d06              741 main/binary-all/Packages.gz
+ e6fbabe5d2f20484bd6186d141ec6fafa87855e24d736bb2b196234d18ee7aba63f4d3517b7d98ff22c84ebb264dc1eb1925ecfdc4e6fda176b27a258bb39582             2905 main/binary-armhf/Packages
+ 14f4d1672da1a265c610a9048ab238036756ab48b0bac6c8df71fcfba440e9697b287b6c2e66520d9a031558aaf7eb3f9caa76ada38b8ff07cfced6bb5fe5710             1264 main/binary-armhf/Packages.gz
