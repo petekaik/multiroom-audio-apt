@@ -1,0 +1,19 @@
+Architectures: armhf
+Codename: canary
+Components: main
+Date: Sun, 08 Nov 2026 19:36:14 +0000
+Label: multiroom-audio
+Origin: multiroom-audio
+Suite: canary
+MD5Sum:
+ 64b220562c72c6adfadd1e2fe1cd58ce             2905 main/binary-armhf/Packages
+ b2af7f731e1b079a074b23f84c2af8d1             1267 main/binary-armhf/Packages.gz
+SHA1:
+ 0c5c36c6ae4ade2a49ccdfdf3dc34b8317c42de8             2905 main/binary-armhf/Packages
+ e18c588ad8a3bcebf6ef1f7a26c03cb537455b57             1267 main/binary-armhf/Packages.gz
+SHA256:
+ 413a0b2c1b1e7dd76c735aee22b384c8851c4da76401619ff1efeda196e9a137             2905 main/binary-armhf/Packages
+ 25c2ba162b2cc39b0efca7811f2ae9996fcb3a5727af8fc16053df39b4ada52b             1267 main/binary-armhf/Packages.gz
+SHA512:
+ 7bd2a850afdfa42139605a84ee313a819ea16d7f6c81c43cc38c001538321e2566893ae913344ef66230abee97bc36d4e1db2b935be0cd5ae3d3b5e670b49bc5             2905 main/binary-armhf/Packages
+ b86f87490c658d711f82ddf60ecc9427b5b9f7e24f23e11b5a11328fa95f93ebc405a3cc4f54aa9a06889a9daefa237743042110e9e14d170e4ffd174c9042a5             1267 main/binary-armhf/Packages.gz
