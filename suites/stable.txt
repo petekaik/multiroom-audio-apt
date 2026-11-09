@@ -1,0 +1,4 @@
+pool/main/m/multiroom-endpoint/multiroom-endpoint_1.0-7_all.deb	2026-11-08T19:45:11Z
+pool/main/m/multiroom-librespot/multiroom-librespot_0.8.0-7_armhf.deb	2026-11-08T19:45:11Z
+pool/main/m/multiroom-nqptp/multiroom-nqptp_1.2.9-7_armhf.deb	2026-11-08T19:45:11Z
+pool/main/m/multiroom-shairport-sync/multiroom-shairport-sync_5.6.2-7_armhf.deb	2026-11-08T19:45:11Z

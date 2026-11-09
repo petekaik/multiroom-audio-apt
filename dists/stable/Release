@@ -1,0 +1,27 @@
+Architectures: armhf all
+Codename: stable
+Components: main
+Date: Mon, 09 Nov 2026 14:29:13 +0000
+Label: multiroom-audio
+Origin: multiroom-audio
+Suite: stable
+MD5Sum:
+ 8ae50950253ea0cfeb491c1e0ce009c7             1242 main/binary-all/Packages
+ bd1a9365cfc7ec511602fd2d6217ad47              741 main/binary-all/Packages.gz
+ 8b9060e49d2e122bdfd32577d46111f3             2905 main/binary-armhf/Packages
+ 5efad9e2b4515a97aae06a31b09d8f81             1264 main/binary-armhf/Packages.gz
+SHA1:
+ 0c97f5e9299484a7b2dcb47a04304f428ad84f07             1242 main/binary-all/Packages
+ 9fd8a5e3501d5a8731e2d8cad20249c91466a022              741 main/binary-all/Packages.gz
+ 45a26e5446ebfd8bf61cabd9cf34f7b56f91d474             2905 main/binary-armhf/Packages
+ a2fa8a0bfc133dccaf907a9c64878673f08dc33f             1264 main/binary-armhf/Packages.gz
+SHA256:
+ a9ea7b2e9873b3b2e0e003564e448eaf5ebdbbc971411e2a229c52fd0c4c584c             1242 main/binary-all/Packages
+ a01f4954af714a940fab7961c1feda34b88d86e44b9ad563ad27767baa3a9c86              741 main/binary-all/Packages.gz
+ 770137f720566c54c312ca6d2533c337b4bbf94e597e30845f882f0d685a2871             2905 main/binary-armhf/Packages
+ 927be17220a704b190b68fc4a3468b8c30ca3027e35730c882a5552dac43a861             1264 main/binary-armhf/Packages.gz
+SHA512:
+ ed8ce8cc9e70ce2d11401545eadc4da33306e6a075b046f229bd4a73eb8e4fe87cdec3cf1d48649e034b5cd4965792a48398cfd9298a76a03a7e3007fd6192bd             1242 main/binary-all/Packages
+ e7a54df99911fd7b5cd26febd744fa50a4b57246c40a9ee2ff8e463616bba704702042afe91539e5e6802a1eb7bdb7a901e63f1e6620d44d031a63b0f0163d06              741 main/binary-all/Packages.gz
+ e6fbabe5d2f20484bd6186d141ec6fafa87855e24d736bb2b196234d18ee7aba63f4d3517b7d98ff22c84ebb264dc1eb1925ecfdc4e6fda176b27a258bb39582             2905 main/binary-armhf/Packages
+ 14f4d1672da1a265c610a9048ab238036756ab48b0bac6c8df71fcfba440e9697b287b6c2e66520d9a031558aaf7eb3f9caa76ada38b8ff07cfced6bb5fe5710             1264 main/binary-armhf/Packages.gz
