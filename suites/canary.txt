@@ -1,4 +1,4 @@
-pool/main/m/multiroom-endpoint/multiroom-endpoint_1.0-14_all.deb	2026-11-12T20:38:35Z
-pool/main/m/multiroom-librespot/multiroom-librespot_0.8.0-14_armhf.deb	2026-11-12T20:38:35Z
-pool/main/m/multiroom-nqptp/multiroom-nqptp_1.2.9-14_armhf.deb	2026-11-12T20:38:35Z
-pool/main/m/multiroom-shairport-sync/multiroom-shairport-sync_5.6.3-14_armhf.deb	2026-11-12T20:38:35Z
+pool/main/m/multiroom-endpoint/multiroom-endpoint_1.0-17_all.deb	2026-11-19T21:14:14Z
+pool/main/m/multiroom-librespot/multiroom-librespot_0.8.0-17_armhf.deb	2026-11-19T21:14:14Z
+pool/main/m/multiroom-nqptp/multiroom-nqptp_1.2.9-17_armhf.deb	2026-11-19T21:14:14Z
+pool/main/m/multiroom-shairport-sync/multiroom-shairport-sync_5.6.3-17_armhf.deb	2026-11-19T21:14:14Z
