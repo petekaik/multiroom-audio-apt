@@ -1,17 +1,17 @@
 Package: multiroom-endpoint
 Architecture: all
-Version: 1.0-14
+Version: 1.0-18
 Priority: optional
 Section: sound
 Maintainer: multiroom-audio <noreply@example.invalid>
 Depends: multiroom-librespot, multiroom-shairport-sync, multiroom-nqptp, avahi-daemon, alsa-utils, sudo, util-linux, curl
 Recommends: avahi-utils
-Filename: pool/main/m/multiroom-endpoint/multiroom-endpoint_1.0-14_all.deb
-Size: 107094
-MD5sum: d8f41a4e81a7bf456ad9e2476cd18627
-SHA1: 12f107636fffb37c090851d3a46ac1ce457bcc34
-SHA256: 30329306b8f696fa5942197051f92081894f4980c7a3ec0b287ce30bfbc6e50a
-SHA512: 23a858d0794d510aeacf2345f4a685592b4d1bbbb40c13451de6f5d89a1cf2cb617f043461ade6e4be3276b07a20b1cc1d8192f0b555e1d4562e63da06016468
+Filename: pool/main/m/multiroom-endpoint/multiroom-endpoint_1.0-18_all.deb
+Size: 107912
+MD5sum: 76dea03f38e6a13441b70d52385bd611
+SHA1: fd821046fd334082736ce165a73e7106024423a8
+SHA256: 6750848be0898367e26542f8d0be50dfb4a22de004233547ac23ab61a4a85c75
+SHA512: e5026ec0db194ff4a263a2c485bc38b07a55f553c541238ab14761a183c82d3b04f62610ce5471382ccd77d62c27ce03784ea7fb07f78f0dd5b43e495d2e0b9c
 Description: Configuration and glue for the multiroom-audio endpoint
  The architecture-independent half of a multiroom-audio endpoint: the
  audio-claim, ready-chime, chime-gate, multiroom-update and readonly-root
