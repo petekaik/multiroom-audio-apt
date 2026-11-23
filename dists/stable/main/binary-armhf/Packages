@@ -1,60 +1,60 @@
 Package: multiroom-librespot
 Architecture: armhf
-Version: 0.8.0-18
+Version: 0.8.0-19
 Priority: optional
 Section: sound
 Maintainer: multiroom-audio <noreply@example.invalid>
 Depends: libasound2t64, libc6, libgcc-s1
-Filename: pool/main/m/multiroom-librespot/multiroom-librespot_0.8.0-18_armhf.deb
-Size: 5278164
-MD5sum: 798098ded7d0199b8a3186863a5048b1
-SHA1: b6305d8311a421467acbaeb9dc5025d003917112
-SHA256: 8521c4b360fa8b4f5c5bd4062e47e5621ad8e973552b1f6bb46170e58a1720bf
-SHA512: e0851a97c3937f7405df60550cd918788a092ba75556529dbd5f646c92caa2fbe594bedd03fa84544090199289d28e17fc15215b51d674347a80b2597cae35db
+Filename: pool/main/m/multiroom-librespot/multiroom-librespot_0.8.0-19_armhf.deb
+Size: 5290662
+MD5sum: 5d814d54955400374d5052705824283a
+SHA1: cf9cf3ba39f0c02931afbef5c97e92f7832b4369
+SHA256: c8ab0fe05136b1c4f1487c1201c641fa007a09d2c15ae28bda40d756c38a0ae4
+SHA512: 52fedebbb6f9cb96ad1856be3e44e74842d55612fdd0d6fadb119d0f8140959f6752cb80cb36c130f5473179d1e0eec57a9e7cdf397d13436a6a7645dc8a3689
 Homepage: https://github.com/librespot-org/librespot
 Description: Spotify Connect receiver for the multiroom-audio endpoint
- Built from upstream librespot 0.8.0-18 for Raspberry Pi OS trixie ARMv6
+ Built from upstream librespot 0.8.0-19 for Raspberry Pi OS trixie ARMv6
  with the rustls, ALSA and Avahi features used by scripts/setup.sh, and
  installed under /usr/local. Enables no units.
 
 Package: multiroom-nqptp
 Architecture: armhf
-Version: 1.2.9-18
+Version: 1.2.9-19
 Priority: optional
 Section: sound
 Maintainer: multiroom-audio <noreply@example.invalid>
 Depends: libc6
 Conflicts: nqptp
 Replaces: nqptp
-Filename: pool/main/m/multiroom-nqptp/multiroom-nqptp_1.2.9-18_armhf.deb
-Size: 17384
-MD5sum: cda7ea0ba167464c044ef7b9b57df05c
-SHA1: ce4b24c77bded7cdc5f1b051cdb36c57ab4b0194
-SHA256: 09fceb205a93a0b3748b9b8cb0e951e6a0f60b5fdc4a23c49587d78b2e85eac8
-SHA512: 3e4f190d907b9b226557953b258b732fd423b6cf013fec75cd8fc01a7ec6edf6330088e9aa03eb7dede8f3de2fd0b849a5eef4c35b7ebb28c11cb22e8b6424a1
+Filename: pool/main/m/multiroom-nqptp/multiroom-nqptp_1.2.9-19_armhf.deb
+Size: 17372
+MD5sum: 01e687073fb7bf8e52ef5d1d9774fa4b
+SHA1: 209f87634b5c76c0fdefbea795b531bf5c244002
+SHA256: 3b460f280abfc91f70c8935002a3ebdd8e3a69b718add4fd5ca68f52e8accabf
+SHA512: 74dc90a0cf7b303b002a8f540c3188cb3c03f3c659f63dff70905bf1b5aa40a0575770ec3d3f071fb5e9cb2471cdc59f3a03818861775be3e716b8e52e9cc99c
 Homepage: https://github.com/mikebrady/nqptp
 Description: AirPlay 2 timing daemon for the multiroom-audio endpoint
- Built from upstream nqptp 1.2.9-18 for Raspberry Pi OS trixie ARMv6 and
+ Built from upstream nqptp 1.2.9-19 for Raspberry Pi OS trixie ARMv6 and
  installed under /usr/local, matching scripts/setup.sh. Enables no units.
 
 Package: multiroom-shairport-sync
 Architecture: armhf
-Version: 5.6.3-18
+Version: 5.6.3-19
 Priority: optional
 Section: sound
 Maintainer: multiroom-audio <noreply@example.invalid>
 Depends: libasound2t64, libavahi-client3, libavahi-common3, libavcodec61, libavutil59, libc6, libconfig11, libgcc-s1, libgcrypt20, libplist-2.0-4, libpopt0, libsodium23, libsoxr0, libssl3t64, libswresample5, libuuid1
 Conflicts: shairport-sync
 Replaces: shairport-sync
-Filename: pool/main/m/multiroom-shairport-sync/multiroom-shairport-sync_5.6.3-18_armhf.deb
-Size: 240424
-MD5sum: 575b8ff4bb9d22d3a197e3c9aa829ee4
-SHA1: 3631b9db0d70ed6bdea7cccffcbc574c4f71ed33
-SHA256: b6e65da02e498bc0541baea216c646216ffde871fb655f72a4a7c55522837c3c
-SHA512: 5fae8be580052c323066a884bcd6551bf679e62fd8ccffc2d73285245e3be6a66f2e6deee8b094177a0a36d2eb80103511bd7105d8573151c3c99723a6358b72
+Filename: pool/main/m/multiroom-shairport-sync/multiroom-shairport-sync_5.6.3-19_armhf.deb
+Size: 240176
+MD5sum: d71bb226b0d08129293e6d68160a5dd0
+SHA1: 410c2cf09d78cbf8939f5f96d35e61395c93ed4a
+SHA256: b812bedbfb3b2ce722a2734cf77f4480822bdf417e338c97776425ddbd2ae323
+SHA512: 239b149fa9a44297fc8e636530cfd388ba766901a22ee82e786f2d9dfd48af6187a6d06c13d6f5be6b115d1994b38fabbd191dcfc636ec02421fd2a0b21d8b95
 Homepage: https://github.com/mikebrady/shairport-sync
 Description: AirPlay 2 receiver for the multiroom-audio endpoint
- Built from upstream shairport-sync 5.6.3-18 for Raspberry Pi OS trixie
+ Built from upstream shairport-sync 5.6.3-19 for Raspberry Pi OS trixie
  ARMv6 and installed under /usr/local, matching scripts/setup.sh. The
  postinst creates the shairport-sync system user but enables no units.
 
